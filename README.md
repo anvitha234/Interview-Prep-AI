@@ -83,5 +83,3 @@ streamlit run app.py
 2. **Start Interview**: AI generates role-specific questions
 3. **Conduct Interview**: Text or voice responses
 4. **Get Evaluation**: AI analysis and PDF report
-
-## Project Structure
