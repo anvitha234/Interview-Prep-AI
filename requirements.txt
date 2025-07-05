@@ -1,0 +1,13 @@
+google-generativeai
+python-dotenv
+requests
+streamlit
+elevenlabs
+audio-recorder-streamlit
+nltk
+PyMuPDF
+SpeechRecognition
+
+scikit-learn
+numpy
+pandas
