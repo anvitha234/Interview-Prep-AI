@@ -38,7 +38,9 @@ An intelligent interview system demonstrating comprehensive Natural Language Pro
 
 ### Prerequisites
 - Python 3.8+
-- API Keys: Google Gemini, ElevenLabs
+- API Keys: Google Gemini, ElevenLabs.
+
+
 Generate 2 API keys from these 2 sites:
 https://aistudio.google.com/app/apikey
 https://elevenlabs.io/app/settings/api-keys
@@ -47,8 +49,8 @@ https://elevenlabs.io/app/settings/api-keys
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/anvitha234/Interview-Prep-Bot
-cd Interview-Prep-Bot
+git clone https://github.com/anvitha234/Interview-Prep-AI
+cd Interview-Prep-AI
 
 # Setup environment
 python -m venv venv
